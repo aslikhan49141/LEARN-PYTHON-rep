@@ -18,3 +18,7 @@ for j in range(1, 11):
     print(acc)
 
 print (f"Final value of acc = {acc}")
+
+fruits ={"apple","Banana","Mango" }
+for fruit in fruits:
+    print(fruit)
